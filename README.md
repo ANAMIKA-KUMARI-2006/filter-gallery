@@ -4,9 +4,10 @@ This is a simple image filter gallery made using HTML, CSS, and JavaScript.
 
 ## 🔗 Project Files
 
-- 📄 [HTML File](./01_filter_gallery.html)
-- 🎨 [CSS File](./02_filter_gallery.css)
-- ⚙️ [JavaScript File](./03_filter_gallery.js)
+- 📄 [HTML File](./01_filter%20gallery.html)
+- 🎨 [CSS File](./02_filter%20gallery.css)
+- ⚙️ [JavaScript File](./03_filter%20gallery.js)
+
 
 ## 🧠 How It Works
 

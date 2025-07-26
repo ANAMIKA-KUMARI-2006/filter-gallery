@@ -17,6 +17,7 @@ Users can click on buttons (like "Phones", "Shoes", "Earphones") to filter the v
 - Earphones: earphone1.jpg - earphone5.jpeg
 - Phones: phone1.avif - phone4.jpg
 - Shoes: shoe1.webp - shoe4.jpeg
+- watch: watch1.jpg - watch5.jpg
 
 ## 🚀 How to Run
 
